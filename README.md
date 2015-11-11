@@ -2,6 +2,7 @@
 
 A basic implementation of node, express, and socket.io.
 
-To run:
-1. `npm install`
+To run:<br>
+1. `npm install`<br>
 2. `node index.js` to start express server.
+<br>
